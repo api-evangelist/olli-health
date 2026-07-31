@@ -1,0 +1,17 @@
+generated: '2026-07-20'
+method: searched
+source: https://ollihomehealth.ai/compliance
+standards:
+- id: hipaa
+  conforms: true
+  evidence: "Compliance page states the service is compliant with HIPAA to protect patient health information."
+- id: soc2
+  conforms: true
+  evidence: "Compliance page states the service is SOC 2 certified with ongoing compliance to security and privacy standards."
+- id: chap-verified
+  conforms: true
+  evidence: "OASIS and Plan of Care Quality Review service awarded the CHAP (Community Health Accreditation Program) Verified seal, June 2026."
+notes: >
+  Olli Health publishes no OpenAPI/AsyncAPI or public developer surface; conformance here
+  reflects the provider's published organizational security/clinical compliance posture,
+  not machine-verified API-standard conformance.
