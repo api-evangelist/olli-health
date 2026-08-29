@@ -12,6 +12,17 @@ description: >-
   portfolio company; as of this enrichment pass Olli Health publishes no public API, developer
   portal, or machine-readable API specification.
 url: https://raw.githubusercontent.com/api-evangelist/olli-health/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
